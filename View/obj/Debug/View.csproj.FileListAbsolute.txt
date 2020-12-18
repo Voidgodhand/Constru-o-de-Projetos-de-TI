@@ -1,0 +1,29 @@
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\View.exe.config
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\View.exe
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\View.pdb
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\Control.dll
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\Model.dll
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\Data.dll
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\Control.pdb
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\Model.pdb
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\bin\Debug\Data.pdb
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmCadAcessorio.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmCadConsole.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmCadControle.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmCadDesenvolvedora.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmCadJogo.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmListaAcessorio.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmListaConsole.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmListaControle.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmListaDesenvolvedora.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmListaJogo.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmLogin.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.frmPrincipal.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.Properties.Resources.resources
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.csproj.GenerateResource.Cache
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.exe
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\View\obj\Debug\View.pdb
+G:\Faculdade\Trabalhos\6º período\Construção de Projetos de TI\Videogames\View\bin\Debug\View.exe.config
+G:\Faculdade\Trabalhos\6º período\Construção de Projetos de TI\Videogames\View\obj\Debug\View.exe
+G:\Faculdade\Trabalhos\6º período\Construção de Projetos de TI\Videogames\View\obj\Debug\View.pdb

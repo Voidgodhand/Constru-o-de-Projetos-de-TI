@@ -1,0 +1,5 @@
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\Model\bin\Debug\Model.dll
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\Model\bin\Debug\Model.pdb
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\Model\obj\Debug\Model.dll
+F:\Faculdade\Trabalhos\Construção de Projetos de TI\Videogames\Model\obj\Debug\Model.pdb

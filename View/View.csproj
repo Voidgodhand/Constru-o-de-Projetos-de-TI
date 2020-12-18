@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17347606-57A1-42D6-BBDD-9FB2E761DA76}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>View</RootNamespace>
+    <AssemblyName>View</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCadAcessorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadAcessorio.Designer.cs">
+      <DependentUpon>frmCadAcessorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadConsole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadConsole.Designer.cs">
+      <DependentUpon>frmCadConsole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadControle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadControle.Designer.cs">
+      <DependentUpon>frmCadControle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadDesenvolvedora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadDesenvolvedora.Designer.cs">
+      <DependentUpon>frmCadDesenvolvedora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadJogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadJogo.Designer.cs">
+      <DependentUpon>frmCadJogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaAcessorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaAcessorio.Designer.cs">
+      <DependentUpon>frmListaAcessorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaConsole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaConsole.Designer.cs">
+      <DependentUpon>frmListaConsole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaControle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaControle.Designer.cs">
+      <DependentUpon>frmListaControle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaDesenvolvedora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaDesenvolvedora.Designer.cs">
+      <DependentUpon>frmListaDesenvolvedora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaJogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaJogo.Designer.cs">
+      <DependentUpon>frmListaJogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCadAcessorio.resx">
+      <DependentUpon>frmCadAcessorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadConsole.resx">
+      <DependentUpon>frmCadConsole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadControle.resx">
+      <DependentUpon>frmCadControle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadDesenvolvedora.resx">
+      <DependentUpon>frmCadDesenvolvedora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadJogo.resx">
+      <DependentUpon>frmCadJogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaAcessorio.resx">
+      <DependentUpon>frmListaAcessorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaConsole.resx">
+      <DependentUpon>frmListaConsole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaControle.resx">
+      <DependentUpon>frmListaControle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaDesenvolvedora.resx">
+      <DependentUpon>frmListaDesenvolvedora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaJogo.resx">
+      <DependentUpon>frmListaJogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Control\Control.csproj">
+      <Project>{cfd1956b-3bff-4157-9298-8132abf9a067}</Project>
+      <Name>Control</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{d914c1c8-1b36-4231-9c39-f0897886ed98}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video_game.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
